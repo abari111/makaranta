@@ -1,0 +1,2 @@
+- Un logiciel innovant destiné aux élèves, conçu pour rendre leur apprentissage plus interactif, engageant et personnalisé. Grâce à l'intelligence artificielle, il adapte le processus éducatif en analysant le mode de pensée de chaque élève, comprenant ses méthodes d'apprentissage, ses difficultés et ses points forts. En s'appuyant sur ce profil d'apprentissage unique, le logiciel propose des contenus, des exercices et des cours sur mesure, parfaitement alignés sur les besoins et le rythme de chaque apprenant.
+- 
