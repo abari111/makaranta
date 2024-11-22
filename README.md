@@ -1,7 +1,6 @@
 # Makaranta
 > "Education is the most powerful weapon which you can use to change the world." Nelson Mandela
 
-Read more at https://www.brainyquote.com/topics/education-quotes
 - [Étude sur l'Éducation en Afrique (draft)](docs/education_africa.md)
 - [L'éducation : un pilier du développement (draft) ](docs/intro.md)
 - [AI solutions for education brainstorming (draft)](docs/outils.md)
